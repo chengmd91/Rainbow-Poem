@@ -4,6 +4,7 @@ Red
 Orange
 Yellow
 Green 
+Aquamarine
 Blue
 Purple
 Pink
