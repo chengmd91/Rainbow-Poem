@@ -1,4 +1,4 @@
-The rainbow and the unicorn
+The rainbow and the unicorn and fairies
 
 Red
 Orange
@@ -10,6 +10,8 @@ Aquamarine
 Blue
 Purple
 Pink
+Fairy
 
 These are the colors of the rainbow. 
 And the unicorn.
+And the fairy.
